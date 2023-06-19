@@ -1,0 +1,25 @@
+#!/bin/bash
+
+
+read -r -p 'Enter file name :' scriptName
+read -r -p 'Enter author    :' author
+read -r -p 'Decription this script : ' desc
+echo "/home/oracle/Downloads/${scriptName}.sh"
+echo "#!/bin/bash" >> /home/oracle/Downloads/${scriptName}.sh
+echo
+echo "##############################################" >> /home/oracle/Downloads/${scriptName}.sh
+echo
+echo "#Author: " $author >> /home/oracle/Downloads/${scriptName}.sh
+echo
+echo "#Date  : " `date` >> /home/oracle/Downloads/${scriptName}.sh
+echo
+echo "#Description : " $desc >> /home/oracle/Downloads/${scriptName}.sh
+echo
+echo "#Modified : " $(date) >> /home/oracle/Downloads/${scriptName}.sh 
+echo
+echo "##############################################" >> /home/oracle/Downloads/${scriptName}.sh
+echo "" >> /home/oracle/Downloads/${scriptName}.sh
+echo "" >> /home/oracle/Downloads/${scriptName}.sh
+chmod u+x ${scriptName}.sh
+nvim ${scriptName}.sh
+

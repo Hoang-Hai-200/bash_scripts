@@ -1,0 +1,30 @@
+ibm-spectrum-scale-csi-5pgw5                          3/3     Running   0             52d
+ibm-spectrum-scale-csi-5zlfd                          3/3     Running   0             52d
+ibm-spectrum-scale-csi-78xxs                          3/3     Running   0             52d
+ibm-spectrum-scale-csi-7klss                          3/3     Running   0             52d
+ibm-spectrum-scale-csi-9rgbl                          3/3     Running   0             52d
+ibm-spectrum-scale-csi-b95z6                          3/3     Running   0             52d
+ibm-spectrum-scale-csi-cfrml                          3/3     Running   3             53d
+ibm-spectrum-scale-csi-cj7qg                          3/3     Running   0             52d
+ibm-spectrum-scale-csi-dfqk9                          3/3     Running   0             52d
+ibm-spectrum-scale-csi-dpgl7                          3/3     Running   0             52d
+ibm-spectrum-scale-csi-f88xs                          3/3     Running   0             5d23h
+ibm-spectrum-scale-csi-fw56b                          3/3     Running   3             52d
+ibm-spectrum-scale-csi-gb9t2                          3/3     Running   0             25h
+ibm-spectrum-scale-csi-hvf8b                          3/3     Running   0             15h
+ibm-spectrum-scale-csi-klxz7                          3/3     Running   0             53d
+ibm-spectrum-scale-csi-l9cfl                          3/3     Running   6             52d
+ibm-spectrum-scale-csi-ln9tq                          3/3     Running   0             52d
+ibm-spectrum-scale-csi-mx8qc                          3/3     Running   0             52d
+ibm-spectrum-scale-csi-nl9xb                          3/3     Running   0             52d
+ibm-spectrum-scale-csi-nqbtv                          3/3     Running   3 (53d ago)   53d
+ibm-spectrum-scale-csi-p4pm8                          3/3     Running   0             15h
+ibm-spectrum-scale-csi-pcxxh                          3/3     Running   0             52d
+ibm-spectrum-scale-csi-qwkpw                          3/3     Running   0             16h
+ibm-spectrum-scale-csi-rgngg                          3/3     Running   0             52d
+ibm-spectrum-scale-csi-rp4c7                          3/3     Running   0             52d
+ibm-spectrum-scale-csi-wxnqc                          3/3     Running   0             52d
+ibm-spectrum-scale-csi-xfrx7                          3/3     Running   2 (00d ago)   53d
+ibm-spectrum-scale-csi-xfrx7                          1/3     Running   2 (53d ago)   53d
+ibm-spectrum-scale-csi-xfrx7                          2/3     Running   2 (53d ago)   53d
+ibm-spectrum-scale-csi-xfrx7                          4/3     Running   2 (53d ago)   53d

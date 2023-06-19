@@ -1,0 +1,13 @@
+rpcuser         :x:29:29:RPC Service User:/var/lib/nfs:/sbin/nologin
+gdm:x:42:42::/var/  lib/gdm:/sbin/nologin
+gnome-initial-setup:x:976:975::/run/gnome-initial-setup/:/sbin/nologin
+tcpdump:x:72:72::/:/sbin/nologin
+hoang:x:1000:1000:hoang:/nha/hoang:/bin/bash
+oracle:x:1001:1001::/nha/oracle:/usr/bin/zsh
+
+
+
+
+postfix:x:89:89::/var/spool/postfix:/sbin/nologin
+test123:x:1002:1002::/nha/test123:/bin/bash
+test345:x:1003:1003::/nha/test345:/bin/bash
